@@ -1,5 +1,8 @@
 # KDT 스포츠 커뮤니티 플랫폼
 
+![A-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/936035cd-77ce-4479-b3e6-c41e12f21812)
+
+
 ## 1. 프로젝트 개요
 
 - 천안 지역 생활 체육 동호인을 위한 Spring Boot 3.5 기반 웹 애플리케이션입니다.
